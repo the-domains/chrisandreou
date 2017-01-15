@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Leadership is still about the inner summits that we need to personally
   overcome with one aim; remain connected with people in our world
-dateModified: '2017-01-15T20:50:23.098Z'
-datePublished: '2017-01-15T20:50:24.066Z'
+dateModified: '2017-01-15T21:02:31.988Z'
+datePublished: '2017-01-15T21:02:32.661Z'
 title: Innersummit
 author: []
 publisher: {}
