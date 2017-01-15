@@ -15,11 +15,11 @@ layout_spectrum: 0.3711303832404094
 name: chrisandreou
 url: 'http://chrisandreou.innersummit.co.uk'
 navigation:
-  - name: Blog
-    id: 85715f17-e620-4b79-b800-0f1cbe35a0c9
-    type: content
   - name: Test
     id: fcca6c0d-b578-4578-9994-8fc80226e295
+    type: content
+  - name: Blog
+    id: 85715f17-e620-4b79-b800-0f1cbe35a0c9
     type: content
 title: chrisandreou
 content: []
