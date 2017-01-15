@@ -1,4 +1,3 @@
-layout_spectrum: 0.3711303832404094
 typography_spectrum: 0.5211838854562565
 color:
   brandStrength: 0.9581133454494031
@@ -12,8 +11,9 @@ color:
     - '#046380'
     - '#002F2F'
 github: true
+layout_spectrum: 0.3711303832404094
 name: chrisandreou
 url: 'http://chrisandreou.innersummit.co.uk'
 title: chrisandreou
 content: []
-description: how we get on in life
+description: leadership is still about how we connect with one another
