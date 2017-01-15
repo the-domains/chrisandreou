@@ -14,6 +14,10 @@ github: true
 layout_spectrum: 0.3711303832404094
 name: chrisandreou
 url: 'http://chrisandreou.innersummit.co.uk'
+navigation:
+  - name: Blog
+    id: 85715f17-e620-4b79-b800-0f1cbe35a0c9
+    type: content
 title: chrisandreou
 content: []
 description: leadership is still about how we connect with one another
