@@ -21,3 +21,6 @@ purpose:
   - type: external
     url: 'http://www.innersummit.co.uk'
     label: Resources
+  - type: external
+    url: 'http://www.innersummit.co.uk/about-us-2/innersummit/'
+    label: 'Innersummit '
