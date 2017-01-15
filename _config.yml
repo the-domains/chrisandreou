@@ -17,3 +17,7 @@ url: 'http://chrisandreou.innersummit.co.uk'
 title: chrisandreou
 content: []
 description: leadership is still about how we connect with one another
+purpose:
+  - type: external
+    url: 'http://www.innersummit.co.uk'
+    label: Resources
