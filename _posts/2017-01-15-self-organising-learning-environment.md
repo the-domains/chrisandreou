@@ -28,8 +28,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://sole.innersummit.biz/'
 title: Self Organising Learning Environment
-datePublished: '2017-01-15T21:28:49.797Z'
-dateModified: '2017-01-15T21:28:48.741Z'
+datePublished: '2017-01-15T21:31:25.690Z'
+dateModified: '2017-01-15T21:31:23.937Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-15-self-organising-learning-environment.md
