@@ -1,33 +1,45 @@
-layout_spectrum: 0.6024890718211668
-typography_spectrum: 0.6985413201601419
+content: []
+description: leadership is still about how we connect with one another
+url: 'http://chrisandreou.innersummit.co.uk'
+title: chrisandreou
+navigation:
+  - id: fcca6c0d-b578-4578-9994-8fc80226e295
+    name: Test
+    type: content
+  - id: 85715f17-e620-4b79-b800-0f1cbe35a0c9
+    name: Blog
+    type: content
+layout_spectrum: 0.9553192
+github: true
+name: chrisandreou
+purpose:
+  - url: 'http://www.innersummit.co.uk'
+    type: external
+    label: Resources
+  - url: 'http://www.innersummit.co.uk/about-us-2/innersummit/'
+    type: external
+    label: 'Innersummit '
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  brandStrength: 0.13668531310938226
-  lightness: 0.9271621964326
-  saturation: 0.6718839508313502
-  rhythmicContrast: 0.8642791746183308
+  brandStrength: 0
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0
   brandColors:
     - '#000000'
     - '#333333'
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-github: true
-name: chrisandreou
-url: 'http://chrisandreou.innersummit.co.uk'
-navigation:
-  - name: Test
-    id: fcca6c0d-b578-4578-9994-8fc80226e295
-    type: content
-  - name: Blog
-    id: 85715f17-e620-4b79-b800-0f1cbe35a0c9
-    type: content
-title: chrisandreou
-content: []
-description: leadership is still about how we connect with one another
-purpose:
-  - type: external
-    url: 'http://www.innersummit.co.uk'
-    label: Resources
-  - type: external
-    url: 'http://www.innersummit.co.uk/about-us-2/innersummit/'
-    label: 'Innersummit '
+typography_spectrum: 0.6985413201601419
