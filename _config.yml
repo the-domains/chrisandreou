@@ -1,17 +1,17 @@
-typography_spectrum: 0.5211838854562565
+layout_spectrum: 0.6024890718211668
+typography_spectrum: 0.6985413201601419
 color:
-  brandStrength: 0.9581133454494031
-  lightness: 0.814873843414082
-  saturation: 0.4514469867277116
-  rhythmicContrast: 0.9133029732225223
+  brandStrength: 0.13668531310938226
+  lightness: 0.9271621964326
+  saturation: 0.6718839508313502
+  rhythmicContrast: 0.8642791746183308
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
 github: true
-layout_spectrum: 0.3711303832404094
 name: chrisandreou
 url: 'http://chrisandreou.innersummit.co.uk'
 navigation:
