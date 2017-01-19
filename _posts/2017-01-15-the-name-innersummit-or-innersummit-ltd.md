@@ -24,8 +24,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.innersummit.co.uk/about-us-2/innersummit/'
 title: What has inner and summit got to do with leadership?
-datePublished: '2017-01-19T19:06:36.703Z'
-dateModified: '2017-01-19T19:06:36.152Z'
+datePublished: '2017-01-19T19:07:41.398Z'
+dateModified: '2017-01-19T19:07:40.896Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-15-the-name-innersummit-or-innersummit-ltd.md
