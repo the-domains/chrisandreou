@@ -3,11 +3,11 @@ description: leadership is still about how we connect with one another
 url: 'http://chrisandreou.innersummit.co.uk'
 title: chrisandreou
 navigation:
-  - id: fcca6c0d-b578-4578-9994-8fc80226e295
-    name: Test
+  - name: Test
+    id: fcca6c0d-b578-4578-9994-8fc80226e295
     type: content
-  - id: 85715f17-e620-4b79-b800-0f1cbe35a0c9
-    name: Blog
+  - name: Blog
+    id: 85715f17-e620-4b79-b800-0f1cbe35a0c9
     type: content
 layout_spectrum: 0.9553192
 github: true
