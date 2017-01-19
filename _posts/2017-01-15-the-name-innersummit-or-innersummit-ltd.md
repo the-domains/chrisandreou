@@ -1,8 +1,5 @@
 ---
-author:
-  - name: Innersummit Ltd
-    url: 'https://www.youtube.com/channel/UChJQzSmZYeQsrqTq5Mb3rgg'
-    avatar: {}
+author: []
 related: []
 publisher: {}
 keywords:
@@ -27,8 +24,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.innersummit.co.uk/about-us-2/innersummit/'
 title: What has inner and summit got to do with leadership?
-datePublished: '2017-01-19T19:03:53.226Z'
-dateModified: '2017-01-19T19:03:52.829Z'
+datePublished: '2017-01-19T19:06:36.703Z'
+dateModified: '2017-01-19T19:06:36.152Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-15-the-name-innersummit-or-innersummit-ltd.md
@@ -54,7 +51,7 @@ _the highest point of a hill or mountain_
 
 _the highest attainable level of achievement_
 
-https://youtu.be/QPrp4v\_EdPQ
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FQPrp4v_EdPQ%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQPrp4v_EdPQ&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQPrp4v_EdPQ%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 Have you ever started a project, climbed a hill or even run a marathon? You will know that there comes a time when the battle in your mind begins to question whether you can keep on going. It is at these times that you find the stamina, resilience and courage to continue. And what a feeling when you complete that challenge. It is the 'highest attainable level of achievement' that you feel, why? Because you made it.  
 Similarly, have you ever approached, what seems to be an insurmountable mountain; leading a large team, businesses acquisitions, redundancy, starting up a new business. You will know that the 'inner' turmoil can often feel like that you are not going to make it. Yet Innersummit is about that very moment of decision to carry on, to get back up and to see it through.
