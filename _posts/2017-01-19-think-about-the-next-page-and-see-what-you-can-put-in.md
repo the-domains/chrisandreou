@@ -1,16 +1,16 @@
 ---
 inFeed: false
 description: think about the next page and see what you can put in
-dateModified: '2017-01-19T21:35:27.509Z'
-datePublished: '2017-01-19T21:35:28.127Z'
+dateModified: '2017-01-19T21:35:57.996Z'
+datePublished: '2017-01-19T21:35:58.425Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-01-19-think-about-the-next-page-and-see-what-you-can-put-in.md
 starred: false
 datePublishedOriginal: '2017-01-19T21:35:28.127Z'
-sourcePath: _posts/2017-01-19-think-about-the-next-page-and-see-what-you-can-put-in.md
 url: think-about-the-next-page-and-see-what-you-can-put-in/index.html
 _type: Blurb
 
