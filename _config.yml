@@ -1,3 +1,16 @@
+layout_spectrum: 0.0672492867579112
+typography_spectrum: 0.6920766033823279
+color:
+  brandStrength: 0.5162799422706634
+  lightness: 0.8852132851877572
+  saturation: 0.6673769479865522
+  rhythmicContrast: 0.8272117441721113
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -32,7 +45,6 @@ content:
 description: An Innersummit Group Presence
 url: 'http://chrisandreou.innersummit.co.uk'
 title: Leadership is still about connecting with one another
-layout_spectrum: 0.9553192
 github: true
 name: chrisandreou
 purpose:
@@ -54,15 +66,3 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  brandStrength: 0
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 0
-  brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
-typography_spectrum: 0.6985413201601419
