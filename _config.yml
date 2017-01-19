@@ -39,9 +39,9 @@ purpose:
   - url: 'http://www.innersummit.co.uk/lets-talk/'
     type: external
     label: Let's Talk
-  - url: 'http://www.innersummit.co.uk/about-us-2/innersummit/'
+  - url: 'http://www.innersummit.co.uk'
     type: external
-    label: 'Innersummit '
+    label: The Innersummit Group
 collections:
   - index:
       navigable: true
