@@ -26,8 +26,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.innersummit.co.uk/about-us-2/innersummit/'
 title: The Name Innersummit? | Innersummit Ltd
-datePublished: '2017-01-15T21:28:49.901Z'
-dateModified: '2017-01-15T21:28:48.741Z'
+datePublished: '2017-01-19T18:37:47.475Z'
+dateModified: '2017-01-19T18:37:47.132Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-15-the-name-innersummit-or-innersummit-ltd.md
