@@ -32,10 +32,6 @@ content:
 description: An Innersummit Group Presence
 url: 'http://chrisandreou.innersummit.co.uk'
 title: Leadership is still about connecting with one another
-navigation:
-  - name: Blog
-    id: 85715f17-e620-4b79-b800-0f1cbe35a0c9
-    type: content
 layout_spectrum: 0.9553192
 github: true
 name: chrisandreou
