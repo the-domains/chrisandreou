@@ -27,8 +27,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.innersummit.co.uk/about-us-2/innersummit/'
 title: What has inner and summit got to do with leadership?
-datePublished: '2017-01-19T18:56:36.470Z'
-dateModified: '2017-01-19T18:56:36.032Z'
+datePublished: '2017-01-19T18:59:01.899Z'
+dateModified: '2017-01-19T18:59:01.402Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-15-the-name-innersummit-or-innersummit-ltd.md
@@ -48,9 +48,7 @@ In essence, Innersummit are the highest and lowest points in life that we intern
 
 The Oxford dictionary defines summit as:
 
-> Pronunciation: /ˈsʌmɪt/noun the highest point of a hill or mountain the highest attainable level of achievement
-
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FQPrp4v_EdPQ%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQPrp4v_EdPQ&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQPrp4v_EdPQ%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzUEOwiAQAMCvkH1A0Wg9mNKb9_YFpsBWSECaZXHj723sB2aGuNKSUUn0HAz0txOogPEV2MDl3IOq5AwE5q3etRaR7lsaN4udK1ljtuj1PNF2_TwffppB_TlbyCMZ2LElpSJrS6k6QnyPgz7G8QfLcinZ" height="244" style=""></iframe>
 
 Have you ever started a project, climbed a hill or even run a marathon? You will know that there comes a time when the battle in your mind begins to question whether you can keep on going. It is at these times that you find the stamina, resilience and courage to continue. And what a feeling when you complete that challenge. It is the 'highest attainable level of achievement' that you feel, why? Because you made it.  
 Similarly, have you ever approached, what seems to be an insurmountable mountain; leading a large team, businesses acquisitions, redundancy, starting up a new business. You will know that the 'inner' turmoil can often feel like that you are not going to make it. Yet Innersummit is about that very moment of decision to carry on, to get back up and to see it through.
