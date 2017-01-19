@@ -27,8 +27,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.innersummit.co.uk/about-us-2/innersummit/'
 title: What has inner and summit got to do with leadership?
-datePublished: '2017-01-19T18:59:01.899Z'
-dateModified: '2017-01-19T18:59:01.402Z'
+datePublished: '2017-01-19T19:01:37.038Z'
+dateModified: '2017-01-19T19:01:36.551Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-15-the-name-innersummit-or-innersummit-ltd.md
@@ -48,7 +48,13 @@ In essence, Innersummit are the highest and lowest points in life that we intern
 
 The Oxford dictionary defines summit as:
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzUEOwiAQAMCvkH1A0Wg9mNKb9_YFpsBWSECaZXHj723sB2aGuNKSUUn0HAz0txOogPEV2MDl3IOq5AwE5q3etRaR7lsaN4udK1ljtuj1PNF2_TwffppB_TlbyCMZ2LElpSJrS6k6QnyPgz7G8QfLcinZ" height="244" style=""></iframe>
+_Pronunciation: /ˈsʌmɪt/noun _
+
+_the highest point of a hill or mountain_
+
+_the highest attainable level of achievement_
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzUEOwiAQAMCvkH1A0Wg9mNKb9_YFpsBWSECaZXHj723sB2aGuNKSUUn0HAz0txOogPEV2MDl3IOq5AwE5q3etRaR7lsaN4udK1ljtuj1PNF2_TwffppB_TlbyCMZ2LElpSJrS6k6QnyPgz7G8QfLcinZ" height="284" style=""></iframe>
 
 Have you ever started a project, climbed a hill or even run a marathon? You will know that there comes a time when the battle in your mind begins to question whether you can keep on going. It is at these times that you find the stamina, resilience and courage to continue. And what a feeling when you complete that challenge. It is the 'highest attainable level of achievement' that you feel, why? Because you made it.  
 Similarly, have you ever approached, what seems to be an insurmountable mountain; leading a large team, businesses acquisitions, redundancy, starting up a new business. You will know that the 'inner' turmoil can often feel like that you are not going to make it. Yet Innersummit is about that very moment of decision to carry on, to get back up and to see it through.
