@@ -25,16 +25,16 @@ description: >-
   highest and lowest points in life that we internally face.
 inLanguage: en
 app_links: []
+isBasedOnUrl: 'http://www.innersummit.co.uk/about-us-2/innersummit/'
 title: What has inner and summit got to do with leadership?
-datePublished: '2017-01-19T18:52:36.617Z'
-dateModified: '2017-01-19T18:52:36.084Z'
+datePublished: '2017-01-19T18:56:36.470Z'
+dateModified: '2017-01-19T18:56:36.032Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-15-the-name-innersummit-or-innersummit-ltd.md
-hasPage: true
+hasPage: false
 starred: false
 datePublishedOriginal: '2017-01-15T21:25:16.862Z'
-url: what-has-inner-and-summit-got-to-do-with-leadership/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
