@@ -10,16 +10,16 @@ description: >-
   change; it often felt like climbing summits. Whenever I worked with people I
   often brought them back to the inner challenges, or the inner summits they had
   to face.
-dateModified: '2017-01-19T19:12:35.666Z'
-datePublished: '2017-01-19T19:12:36.752Z'
+dateModified: '2017-01-19T21:21:34.964Z'
+datePublished: '2017-01-19T21:21:35.468Z'
 title: What has inner and summit got to do with leadership?
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-01-19-what-has-inner-and-summit-got-to-do-with-leadership.md
 starred: false
 datePublishedOriginal: '2017-01-19T19:12:36.752Z'
-sourcePath: _posts/2017-01-19-what-has-inner-and-summit-got-to-do-with-leadership.md
 url: what-has-inner-and-summit-got-to-do-with-leadership/index.html
 _type: Article
 
