@@ -18,6 +18,9 @@ navigation:
   - name: blog
     id: f755dce4-c61a-4863-8feb-c3e8d2b895b8
     type: content
+  - name: Who We Are
+    id: bff503d7-4047-4e30-ae20-4c6d31393c11
+    type: content
 collections:
   - index:
       navigable: true
