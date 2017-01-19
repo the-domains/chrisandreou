@@ -1,35 +1,4 @@
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: video
-    html: >-
-      <iframe
-      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FiuSpYv0R3Mc%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DiuSpYv0R3Mc&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FiuSpYv0R3Mc%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
-      width="640" height="360" scrolling="no" frameborder="0"
-      allowfullscreen></iframe>
-    src: !<tag:yaml.org,2002:js/undefined> ''
-    metadata:
-      author:
-        - name: Innersummit Ltd
-          url: 'https://www.youtube.com/channel/UChJQzSmZYeQsrqTq5Mb3rgg'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://www.youtube.com/favicon.ico'
-        domain: youtu.be
-      keywords: []
-      description: This video is about Interactive
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      '@type': VideoObject
-      app_links: []
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://youtu.be/iuSpYv0R3Mc'
-      title: Interactive
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: leadership is still about how we connect with one another
 url: 'http://chrisandreou.innersummit.co.uk'
 title: chrisandreou
