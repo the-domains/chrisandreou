@@ -21,13 +21,13 @@ description: >-
   bit deeper in order to keep on moving forwards. It is the time when you need
   to continue believing that you can make it through a situation, which is over
   whelming. It is the leadership qualities expressed by thousands of people who
-  have lead nations, businesses and communities. In essence, Innersummit are the
+  have lead nations, businesses and communities.In essence, Innersummit are the
   highest and lowest points in life that we internally face.
 inLanguage: en
 app_links: []
 title: What has inner and summit got to do with leadership?
-datePublished: '2017-01-19T18:52:27.653Z'
-dateModified: '2017-01-19T18:52:27.068Z'
+datePublished: '2017-01-19T18:52:36.617Z'
+dateModified: '2017-01-19T18:52:36.084Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-15-the-name-innersummit-or-innersummit-ltd.md
