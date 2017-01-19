@@ -36,9 +36,9 @@ layout_spectrum: 0.9553192
 github: true
 name: chrisandreou
 purpose:
-  - url: 'http://www.innersummit.co.uk'
+  - url: 'http://www.innersummit.co.uk/lets-talk/'
     type: external
-    label: Resources
+    label: Let's Talk
   - url: 'http://www.innersummit.co.uk/about-us-2/innersummit/'
     type: external
     label: 'Innersummit '
