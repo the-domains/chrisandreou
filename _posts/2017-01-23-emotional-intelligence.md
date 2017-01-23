@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-23T13:51:46.938Z'
-datePublished: '2017-01-23T13:51:47.872Z'
+dateModified: '2017-01-23T13:52:02.259Z'
+datePublished: '2017-01-23T13:52:02.896Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 isBasedOnUrl: 'https://youtu.be/D56HpQBHAMs'
+sourcePath: _posts/2017-01-23-emotional-intelligence.md
 starred: false
 datePublishedOriginal: '2017-01-23T13:51:47.872Z'
-sourcePath: _posts/2017-01-23-emotional-intelligence.md
 _type: MediaObject
 
 ---
