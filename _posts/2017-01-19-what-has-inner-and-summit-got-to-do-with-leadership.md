@@ -10,8 +10,8 @@ description: >-
   change; it often felt like climbing summits. Whenever I worked with people I
   often brought them back to the inner challenges, or the inner summits they had
   to face.
-dateModified: '2017-01-19T21:21:34.964Z'
-datePublished: '2017-01-19T21:21:35.468Z'
+dateModified: '2017-01-23T11:13:21.894Z'
+datePublished: '2017-01-23T11:13:22.515Z'
 title: What has inner and summit got to do with leadership?
 author: []
 publisher: {}
