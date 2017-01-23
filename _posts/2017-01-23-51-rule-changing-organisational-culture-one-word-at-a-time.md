@@ -1,17 +1,17 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-23T13:53:17.375Z'
-datePublished: '2017-01-23T13:53:18.209Z'
+dateModified: '2017-01-23T13:53:33.469Z'
+datePublished: '2017-01-23T13:53:34.042Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 isBasedOnUrl: 'https://youtu.be/q2yDrZ09xng'
-starred: false
-datePublishedOriginal: '2017-01-23T13:53:18.209Z'
 sourcePath: >-
   _posts/2017-01-23-51-rule-changing-organisational-culture-one-word-at-a-time.md
+starred: false
+datePublishedOriginal: '2017-01-23T13:53:18.209Z'
 _type: MediaObject
 
 ---
