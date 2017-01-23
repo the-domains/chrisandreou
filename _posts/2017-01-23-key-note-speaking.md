@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: text in here
-dateModified: '2017-01-23T13:39:02.572Z'
-datePublished: '2017-01-23T13:39:03.098Z'
+dateModified: '2017-01-23T13:39:20.328Z'
+datePublished: '2017-01-23T13:39:21.036Z'
 title: Key Note Speaking
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-01-23-key-note-speaking.md
 starred: false
 datePublishedOriginal: '2017-01-23T13:39:03.098Z'
-sourcePath: _posts/2017-01-23-key-note-speaking.md
 _type: Blurb
 
 ---
