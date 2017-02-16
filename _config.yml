@@ -15,7 +15,7 @@ layout_spectrum: 0.0672492867579112
 name: chrisandreou
 url: 'http://chrisandreou.innersummit.co.uk'
 navigation:
-  - name: blog
+  - name: Blog
     id: f755dce4-c61a-4863-8feb-c3e8d2b895b8
     type: content
   - name: Who We Are
