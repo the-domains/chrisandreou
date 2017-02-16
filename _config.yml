@@ -21,6 +21,9 @@ navigation:
   - name: Shop
     url: 'http://www.innersummit.co.uk/products-solutions/'
     type: external
+  - name: Let's talk
+    url: 'http://www.innersummit.co.uk/lets-talk/'
+    type: external
 collections:
   - index:
       navigable: true
