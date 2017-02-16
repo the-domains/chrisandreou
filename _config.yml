@@ -18,9 +18,6 @@ navigation:
   - name: Blog
     url: 'http://blog.innersummit.co.uk'
     type: external
-  - name: Events
-    id: 9749a748-1bed-40b3-9bb1-1dad908a1832
-    type: content
   - name: Shop
     url: 'http://www.innersummit.co.uk/products-solutions/'
     type: external
