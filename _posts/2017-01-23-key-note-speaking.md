@@ -2,9 +2,9 @@
 inFeed: true
 description: >-
   An  individual leaving you challenged in a way that drives you to consider
-  improving organisational and personal growth.
-dateModified: '2017-02-16T09:19:05.726Z'
-datePublished: '2017-02-16T09:19:06.384Z'
+  improving company and personal growth.
+dateModified: '2017-02-16T14:37:31.506Z'
+datePublished: '2017-02-16T14:37:31.974Z'
 title: Key Note Speaking
 author: []
 publisher: {}
@@ -15,4 +15,4 @@ datePublishedOriginal: '2017-01-23T13:39:03.098Z'
 _type: Blurb
 
 ---
-![An  individual leaving you challenged in a way that drives you to consider improving organisational and personal growth.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b948877c-e994-4e04-ab3e-1e9da182f6b8.jpg)
+![An  individual leaving you challenged in a way that drives you to consider improving company and personal growth.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b948877c-e994-4e04-ab3e-1e9da182f6b8.jpg)
