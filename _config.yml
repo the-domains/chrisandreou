@@ -15,15 +15,15 @@ layout_spectrum: 0.0672492867579112
 name: chrisandreou
 url: 'http://chrisandreou.innersummit.co.uk'
 navigation:
+  - name: Blog
+    url: 'http://blog.innersummit.co.uk'
+    type: external
   - name: Who We Are
     id: bff503d7-4047-4e30-ae20-4c6d31393c11
     type: content
   - name: Events
     id: 9749a748-1bed-40b3-9bb1-1dad908a1832
     type: content
-  - name: Blog
-    url: 'http://blog.innersummit.co.uk'
-    type: external
 collections:
   - index:
       navigable: true
