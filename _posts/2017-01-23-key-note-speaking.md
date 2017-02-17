@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   An  individual leaving you challenged in a way that drives you to consider
   improving company and personal growth.
-dateModified: '2017-02-16T14:37:31.506Z'
-datePublished: '2017-02-16T14:37:31.974Z'
+dateModified: '2017-02-17T15:49:49.769Z'
+datePublished: '2017-02-17T15:49:50.535Z'
 title: Key Note Speaking
 author: []
 publisher: {}
