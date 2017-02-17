@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: A little bit more about Chris…
-dateModified: '2017-02-16T14:23:42.519Z'
-datePublished: '2017-02-16T14:23:42.936Z'
+dateModified: '2017-02-17T15:49:49.769Z'
+datePublished: '2017-02-17T15:49:51.218Z'
 title: ''
 author: []
 publisher: {}
